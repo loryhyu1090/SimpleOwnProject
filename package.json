@@ -1,0 +1,31 @@
+{
+  "name": "simpleownproject",
+  "version": "1.0.0",
+  "description": "A framework-agnostic state management library.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loryhyu1090/SimpleOwnProject"
+  },
+  "keywords": [
+    "state management",
+    "javascript",
+    "framework-agnostic"
+  ],
+  "author": "loryhyu1090",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "eslint": "^7.32.0"
+  }
+}
